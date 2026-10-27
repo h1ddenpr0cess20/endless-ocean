@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "madness-engine": "github:h1ddenpr0cess20/madness-engine#claude/procedural-ocean-water-qv9d9b"
+    "madness-engine": "git+https://github.com/h1ddenpr0cess20/madness-engine.git"
   },
   "devDependencies": {
     "vite": "^7.1.0"
