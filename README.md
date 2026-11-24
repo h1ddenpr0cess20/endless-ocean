@@ -2,7 +2,7 @@
 
 A glass float adrift on a sea that never ends. Paddle it about, ride the
 swell, bounce off the buoys, and turn the sea and the sky with the sliders,
-from flat calm at dawn to a storm with crests twenty metres from trough to
+from flat calm at dawn to a storm with crests twenty meters from trough to
 top. Nothing is painted: the water, the sky and the light are worked out as
 they are drawn, so it never repeats.
 
